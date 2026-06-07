@@ -25,4 +25,4 @@ The real `ls` is ~5000 lines. This covers none of that. If you want to go furthe
 
 ## Video
 
-[Watch on YouTube](#)
+[Watch on YouTube](https://www.youtube.com/watch?v=ecW9xK9dtX8)
